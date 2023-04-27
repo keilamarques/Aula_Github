@@ -8,5 +8,23 @@ color: red;
 }
 #roxo {
     color: blueviolet;
+}
+.cor {
+    color: rgb(25, 0, 255);
+}
+h1{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 90px;
+}
 
+h2 {
+   font-family: 'Courier New', Courier, monospace;
+    font-size: 50px; 
+}
+i{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size:50px ;   
+}
+body{
+background-image: url(https://i.pinimg.com/originals/34/28/55/3428551675f275e28461a3a918c97c61.jpg);  
 }
