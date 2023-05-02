@@ -1,0 +1,9 @@
+p{
+margin-bottom: 100px;
+border: 1px solid rgb(255, 0, 255);
+padding: 40px;
+width: 500px;
+height: 400px;
+box-shadow: 3px 4px rgba(245, 245, 220, 0.884);
+text-shadow: 2px 2px rgb(76, 0, 255) ;
+}
