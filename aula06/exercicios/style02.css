@@ -1,11 +1,14 @@
 body{
-text-align: center;
+
 background-image: url(https://img.freepik.com/fotos-premium/cachorrinho-fofo-da-pomerania_289836-53.jpg?w=2000);
 background-repeat: repeat;
 background-size: cover;} 
 h2{
-    color: rgb(17, 144, 148);
+    color: rgb(182, 49, 49);
 }
 img{
     border-radius: 100px;
+}
+#keila{
+    text-align: center;
 }
