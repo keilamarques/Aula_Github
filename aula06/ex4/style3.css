@@ -24,8 +24,13 @@ box-shadow: 3px 3px 4px rgb(210, 205, 255);
 font-weight: bold;
 color: black;
 transition: 2s;
+
 }
 a:hover {
 background-color: blue;
 
+}
+.entrar{
+  border: 1px solid black;
+  border-radius: 5px 5px;
 }
