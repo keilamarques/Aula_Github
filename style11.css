@@ -1,0 +1,35 @@
+body{
+background-color: rgb(255, 196, 252); /* plano de fundo*/
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+
+}
+header{
+border: 1px solid rgb(134, 13, 13);
+padding: 10px;/* Espaçamento interno*/
+text-align: center;/* Alinhar conteudo no centro*/
+}
+main{
+border: 1px solid rgb(43, 2, 9);
+padding: 20px;
+margin-top: 30px; /* Espaçamento externo no topo*/
+
+}
+main p{
+color: blue;
+
+}
+ .preto{
+ color: rgb(13, 2, 24);  /* Foi aqui que eu usei class,ela deixa diferenciado*/
+ }
+
+ form{
+ display: flex;  /* Deixa um elemento ao lado do outro*/
+ flex-direction: column;  /* Deixa as caixas escrever em uma coluna*/
+ width: 500px;/* largura do formulário*/
+ gap: 10px;/* Espaçamento lateral top baixo*/
+
+ }
+
+
+
+
