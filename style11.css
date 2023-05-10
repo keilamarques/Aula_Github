@@ -22,14 +22,36 @@ color: blue;
  color: rgb(13, 2, 24);  /* Foi aqui que eu usei class,ela deixa diferenciado*/
  }
 
- form{
+ fieldset{
  display: flex;  /* Deixa um elemento ao lado do outro*/
  flex-direction: column;  /* Deixa as caixas escrever em uma coluna*/
  width: 500px;/* largura do formulário*/
  gap: 10px;/* Espaçamento lateral top baixo*/
 
  }
+table{
+border: 1px solid #161616;  /* Definir uma borda para a tabela*/
 
+width: 600px;  /* Deixa uma largura para a tabela*/
+}
+
+th{
+ background-color: rgb(75, 68, 68);
+ /* Deixa uma cor de fundo para os titulos da tabela*/
+ 
+ padding: 10px;
+  /* Espaçamento interno dos titulos*/
+}
+td {
+ background-color: #b6b6b6;
+ /* Definir uma cor de fundo para as respostas da tabela*/
+}
+
+footer{
+    border: 1px solid blue;
+    margin: 20px;  /* Espaçamento exerno do footer, parte superior*/
+
+}
 
 
 
