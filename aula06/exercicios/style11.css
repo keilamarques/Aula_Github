@@ -1,0 +1,52 @@
+body{
+    font-family: helvetica;
+    background-image: url(https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_jpg,dpr_1.0,c_fill,w_1300,h_628/image-uploads/buzz-images/jpeg/77dce7f2d9117f2aebfa0a63b4e7d0f1.jpg);
+    }
+    header{
+       display: flex; 
+       justify-content: space-around;
+       align-items: center;
+       font-family: 'Courier New', Courier, monospace;
+       
+    }
+    nav{
+       display: flex;
+       gap: 32px; 
+    }
+    li{
+
+      list-style: none;  
+    }
+    a{
+      text-decoration: none;  
+      padding: 15px;
+      border-radius: 5px;
+      font-weight: bold;
+      color: black;
+      transition: 2s;
+      align-items: center;
+      font-family: 'Times New Roman', Times, serif;
+    }
+    
+.entrar{
+    border: 1px solid black;
+    border-radius: 15px 15px;
+}
+
+.er {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+button{
+background-color: rgb(240, 206, 240);
+border-radius: 10PX 10PX;
+height: 50PX;
+
+}
